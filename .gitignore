@@ -1,0 +1,12 @@
+# Large local datasets
+data/*.geojson
+data/*.tif
+
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local secrets
+.env
